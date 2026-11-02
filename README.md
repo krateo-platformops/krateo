@@ -114,7 +114,7 @@ Licensed under the [Apache License 2.0](LICENSE).
 <a id="agentiko"></a>
 ## AGENTIKO: agents on top of Krateo PlatformOps
 
-<img src="docs/media/agentiko-logo.png" width="240" alt="AGENTIKO">
+<img src="docs/media/agentiko-logo.png" width="320" alt="AGENTIKO, control every evolution">
 
 Once the platform runs, most of the work is keeping it healthy and changing it safely. AGENTIKO is the reasoning plane built by Krateo on Krateo PlatformOps: its agents read the platform, investigate, and prepare the change. They propose, they prove, a person decides, and the loop closes.
 
