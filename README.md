@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/media/krateo-logo-dark-mode.png">
-    <source media="(prefers-color-scheme: light)" srcset="docs/media/krateo-logo-light-mode.png">
-    <img src="docs/media/krateo-logo-light-mode.png" width="320" alt="Krateo PlatformOps">
-  </picture>
+  <img src="docs/media/krateo-logo.png" width="340" alt="Krateo PlatformOps">
 </p>
 
 <p align="center">
@@ -118,11 +114,7 @@ Licensed under the [Apache License 2.0](LICENSE).
 <a id="agentiko"></a>
 ## AGENTIKO: agents on top of Krateo PlatformOps
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/media/agentiko-logo-dark-mode.png">
-  <source media="(prefers-color-scheme: light)" srcset="docs/media/agentiko-logo-light-mode.png">
-  <img src="docs/media/agentiko-logo-light-mode.png" width="220" alt="AGENTIKO">
-</picture>
+<img src="docs/media/agentiko-logo.png" width="240" alt="AGENTIKO">
 
 Once the platform runs, most of the work is keeping it healthy and changing it safely. AGENTIKO is the reasoning plane built by Krateo on Krateo PlatformOps: its agents read the platform, investigate, and prepare the change. They propose, they prove, a person decides, and the loop closes.
 
