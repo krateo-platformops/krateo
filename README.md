@@ -118,11 +118,7 @@ Licensed under the [Apache License 2.0](LICENSE).
 
 Once the platform runs, most of the work is keeping it healthy and changing it safely. AGENTIKO is the reasoning plane built by Krateo on Krateo PlatformOps: its agents read the platform, investigate, and prepare the change. They propose, they prove, a person decides, and the loop closes.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/media/agentiko-architecture-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="docs/media/agentiko-architecture-light.svg">
-  <img src="docs/media/agentiko-architecture-light.svg" width="900" alt="AGENTIKO reads the platform, investigates and proposes a change; Krateo PlatformOps proves it, a person decides, then Krateo PlatformOps applies it and keeps it true">
-</picture>
+<img src="docs/media/agentiko-architecture-light.svg" width="900" alt="AGENTIKO reads the platform, investigates and proposes a change; Krateo PlatformOps proves it, a person decides, then Krateo PlatformOps applies it and keeps it true">
 
 AGENTIKO is a commercial product, in alpha at Kiratech since 3 August 2026.
 
