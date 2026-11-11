@@ -118,10 +118,10 @@ Licensed under the [Apache License 2.0](LICENSE).
   <img src="docs/media/agentiko-logo.png" width="320" alt="AGENTIKO, control every evolution">
 </p>
 
-Once the platform runs, most of the work is keeping it healthy and changing it safely. AGENTIKO is the reasoning plane built by Krateo on Krateo PlatformOps: its agents read the platform, investigate, and prepare the change. They propose, they prove, a person decides, and the loop closes.
+Once the platform runs, most of the work is keeping it healthy and changing it safely. AGENTIKO is governed agentic execution for your cloud platform: the reasoning plane built by Krateo on Krateo PlatformOps. Its agents read the platform, investigate, and prepare the change. They propose, they prove, a person decides, and the loop closes.
 
 <img src="docs/media/agentiko-architecture-light.svg" width="900" alt="AGENTIKO reads the platform, investigates and proposes a change; Krateo PlatformOps proves it, a person decides, then Krateo PlatformOps applies it and keeps it true">
 
-AGENTIKO is a commercial product, in alpha at Kiratech since 3 August 2026.
+AGENTIKO is a commercial product by Krateo S.r.l. You can try it in your browser, or for 7 days on a live cluster.
 
 [Learn about AGENTIKO](https://agentiko.eu/?utm_source=github&utm_medium=readme&utm_campaign=krateo&utm_content=agentiko-cta)
